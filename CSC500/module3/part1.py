@@ -4,7 +4,7 @@ def main():
     
     if (foodprice == None or foodprice <= 0):
         print("Invalid food price")
-        exit
+        exit(1)
     
     tip_amount =  round(foodprice * (18/100), 2)
     sales_tax = round(foodprice * (7/100), 2)
