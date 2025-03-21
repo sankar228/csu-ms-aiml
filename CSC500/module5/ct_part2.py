@@ -26,9 +26,9 @@ class Bookstore:
             if key <= numbooks:
                 awarded_pints = sorted_award_points[key]
             else:
-                print(f"Number of points awarded: {awarded_pints}")
-                return
+                break
         
+        print(f"Number of points awarded: {awarded_pints}")
 
 if __name__ == "__main__":
     bookstore = Bookstore()
