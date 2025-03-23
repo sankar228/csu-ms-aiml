@@ -97,7 +97,7 @@ class ShoppingCart:
         total_price = 0
         for item in self.cart_items:
             total_price += (item.quantity * item.price)
-            print(f"{item.item_name} {item.quantity} @ {item.price} = ${item.quantity * item.price}")
+            print(f"{item.item_name} {item.quantity} @ ${round(item.price, 2): .2f} = ${item.quantity * item.price}")
         
         print(f"Total: ${round(total_price, 2): .2f}\n\n")
     
@@ -140,12 +140,12 @@ def menu_items():
 # Print the Menu and promt user to input the operation to perform, like add, remove, modify, print the Cart details
 # optionally we can input 'q' to quit the execution    
 def print_menu():
-    menu_items()
-    
+
     customer_name = input("Please enter your Name: ").strip()
     cart = ShoppingCart(customer_name=customer_name)
     while True:
         print("\n")
+        menu_items()
         menu_option = input("Choose an option from Menu: ").strip()
         if(menu_option == "q"):
             exit(1)
@@ -200,7 +200,6 @@ def print_menu():
             cart.print_total()
         else:
             print("plase enter valid choice:")
-            menu_items()
         
     
 
