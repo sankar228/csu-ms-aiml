@@ -97,7 +97,7 @@ class ShoppingCart:
         total_price = 0
         for item in self.cart_items:
             total_price += (item.quantity * item.price)
-            print(f"{item.item_name} {item.quantity} @ ${round(item.price, 2): .2f} = ${item.quantity * item.price}")
+            print(f"{item.item_name} {item.quantity} @ ${round(item.price, 2): .2f} = ${round(item.quantity * item.price, 2): .2f}")
         
         print(f"Total: ${round(total_price, 2): .2f}\n\n")
     
@@ -159,21 +159,27 @@ def print_menu():
             
             # Check if the item already exist in the cart
             if(cart.is_item_exist(itemname=item_name)):
-                print(f"Item {item_name} already exist in the cart, please choose to update the cart with option 'c'")
-                continue
+                quantity = int(input(f"Item {item_name} already exist in the cart, please enter the extra quantity required: "))
+                # validate the price and quantity values
+                if(not validate_item_date(price=price, quantity= quantity)):
+                    continue
+                item.quantity += quantity
+                
+            else:
+                item_desc = input("Enter item description: ").strip() or None
+                
+                price = input("item price: $").strip()
+                price = round(float(price), 2) if price else None
+                
+                quantity= input("quantity: ").strip()
+                quantity = int(quantity)
             
-            item_desc = input("Enter item description: ").strip() or None
-            price = input("item price: $").strip()
-            price = round(float(price), 2) if price else None
-            
-            quantity= input("quantity: ").strip()
-            quantity = int(quantity)
-            # item name is mandatory field in the cart
-            if(not validate_item_date(price=price, quantity= quantity)):
-                continue
-            
-            item = ItemToPurchase(item_name=item_name,item_disc=item_desc, price=price, quantity=quantity)
-            cart.add_item(item)
+                # validate the price and quantity values
+                if(not validate_item_date(price=price, quantity= quantity)):
+                    continue
+                
+                item = ItemToPurchase(item_name=item_name,item_disc=item_desc, price=price, quantity=quantity)
+                cart.add_item(item)
             
         elif(menu_option == "r"):
             item_name = input("Enter item name to remove: ").strip()
