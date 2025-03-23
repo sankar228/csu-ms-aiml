@@ -74,12 +74,13 @@ class ShoppingCart:
     def get_cost_of_cart(self) -> float:
         if (self.get_num_items_in_cart() == 0):
             print("SHOPPING CART IS EMPTY")
+            return 0
         else:
             total_price = 0
             for item in self.cart_items:
                 total_price += (item.quantity * item.price)
             
-            return total_price
+            return round(total_price, 2)
         
     # Search for item in the cargt
     def is_item_exist(self, itemname) -> bool:
@@ -94,12 +95,10 @@ class ShoppingCart:
         print(f"{self.customer_name}'s Shopping Cart - {self.current_date}")
         print(f"Number of Items: {len(self.cart_items)}")
         
-        total_price = 0
         for item in self.cart_items:
-            total_price += (item.quantity * item.price)
             print(f"{item.item_name} {item.quantity} @ ${round(item.price, 2): .2f} = ${round(item.quantity * item.price, 2): .2f}")
         
-        print(f"Total: ${round(total_price, 2): .2f}\n\n")
+        print(f"Total: ${self.get_cost_of_cart(): .2f}\n\n")
     
     # Show the Cart item and its description
     def print_descriptions(self):
