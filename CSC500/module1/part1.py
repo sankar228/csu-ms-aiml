@@ -8,12 +8,14 @@ def main():
     sub = subtract(num1, num2)
     print(f"{num1} - {num2} = {sub}")
     
-    
 def add(num1, num2):
     return num1 + num2
 
+##
+##
 def subtract(num1, num2):
     return num1 - num2
+    
 
 
 if __name__ == '__main__':
