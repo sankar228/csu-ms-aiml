@@ -1,0 +1,570 @@
+scrum framework flexibel scope
+	burndown chart
+	kanban board
+
+EEF, OPA
+	EEF (legal, financial, cultural)
+
+moving from common workspace to remote
+	increases the level of communication and trust
+
+organization theory
+	power/interest grid
+
+match definition
+	escalate: seek out
+	exploit: ask the team
+	share: provide some benefits
+	enahnace: provide additional tools
+	accept: enjoy the weather
+	
+who are important in heavily planned project
+	SME, project team members
+
+project artifacts
+	assumptions, scope baseline
+
+match definition
+	target benefits: the business value realized
+	strategic alignment: alignment of business approach
+	metrics: direct and indirect
+
+WBS dictionary
+	description of the work
+	acceptance criteria
+
+situation is least likely to be appropriate in project backlog
+	user will specifically request to add items to the project backlog during the iteration
+
+agile team leader assigned works differently than anyone you worked
+	endlesly focus 
+
+kanban for the durattion of your current project, participants who just joined the team asks the benefit
+	it worls well for complex dependency relationships
+
+customer to provide raw materials
+	mandatory, external
+	
+
+governance of a project need to kept as private
+	False
+	
+scope management planning
+	provides the initial product backlog
+
+social skills
+	influence: time management
+	change catalyst: resource planning
+	cooperation: procurement
+	
+throughout the liefe of an agine project.. the termam for this activity includes	
+	refinement, grooming
+
+this is acceptable choice to make in a predictive project
+	True
+
+managemnt and leadership
+	management: maintain status, plan around systems, do things right, ask how and when
+	leadership: develop something new, plan around relationships with people, do the right thigs, ask whant and why
+	
+
+asking for advice on whether agile world be the right approach
+	we should use an agile siutability questionarie to assess
+	
+least like to be incuded in the contract with external supplier
+	outlien the project budget
+	
+collective and variery of SME;scope
+	the possibility of a single point of failure due to resource having specific skills
+
+this is the best represented management style
+	Autocratic
+	
+which not incremental in delivery
+	the opening of new retails store
+
+project high likelihood of change throughout the project
+	CPM
+	
+contract change control systems
+	may require all project changes
+	may permiss the project contracts
+	
+working with high performance team, which is the least relevant to the process
+	directing the team daily activities
+
+project charter, which words best project overview
+	brevity, clarity
+	
+value delivery is baout making sure the 
+	false
+
+quality management plan, include all but whch at a high level
+	detailing the specific metrics
+
+two of the greatest benefits of using quality
+	the team can determine if the project is following the organization
+	it employs an outside set of eyes
+	
+80th birthday
+	how many chairs 
+	the size, flavor, color of cake
+	
+predictive project management, hybrid environment
+	demonstrating skills 
+
+hybrid projects and shares both predictive/agile tools, seeing results rapidly than in long-term plans
+	task board
+	burnup chart
+
+collaboration of stakeholders except:
+	keep all of the communication
+	
+outline the initial expectstions from all stakeholders, 
+	requirements tracebiliyt matrix
+
+match pject to a method
+	agile: the customer is existed
+	predictive" the product received from the project
+	iterative" the client already has
+	icremental: the team is working diligently
+	
+
+working with a senior management to determine the best approach for a high-visibility project
+	hybrid lifecycle
+	
+when dealing with two employee who has been bickering
+	withdraw/avoid
+	
+probability and impact matrix
+	False
+
+team complience efforts, 
+	team development
+
+
+match
+	wrok performace: collection of data, charts, graph
+	variance analy: summary of graphs show
+	dashboard: depiction of project
+	burndown chart: summary of work
+
+adaprive or agile project, to keep project in track regularly
+	iteration reviews
+	
+least likely used to categorize the business environment
+	PMO
+	
+project was defined some time ago, time crunch to meet the expected mandatory delivery date
+	reduce the scope
+	add additional resources
+	
+team member disagree abour purpose of lessons learned
+	it will be higly beneficial for 
+
+ill-defined scope, schedule and budget, will be delivered inrementally
+	classic project management
+
+least important project team member, expressed various emotional states
+	processing all conditions without expressing any feeling
+
+there is a recent graduate on your team, curious about the team charter
+	False
+
+user perference on requirements, A/B testing
+	it is used to optimized the solutions
+
+matching
+	release planning: the high-level summary
+	potentially shippable: an iteration goal that the value added
+	user acceptance testing: specific protocol to assure that the product or results
+	sprint demo: the meeting at the end of an iteration
+	
+ matching:
+	breach of contract:  failure of one party to meet
+	cease-and-desit letter: formal documentation provided to
+	waiver: giving up anelement or right within
+	warranty: an express or implied agreement
+	
+most beneficial key performance indicator of team cohesion
+	the team seems to have healthy culture of communication and trust
+
+moved from one group into another, different char, skills, background and appre
+	permitting the team to come to a quick reslt
+	
+stake holders idetified, categorized, and planned
+	located on the WBS
+
+board categories of risk
+	soruce-based rick
+	effect-based risk
+	
+facing greater turmoil than you, toward going through challenges
+	putting effort toward poviding
+	carefully observing
+
+drag and drop
+	performance review method: earned valueman, trend analys, critical path, critical chain
+	root cause analysis: FEMA, paretor, fishbone, scatter
+	
+complications of the project missing cusotmer satisfaction
+	control charts
+	histogams
+	
+which happens latest in the closing phase
+	the project file is officially closed
+	
+match:
+	configuration managem: a tool used to maange change to product
+	version control: a systems that records
+	configuration management: the location and procedures to track
+	project management: a centralized or standardlized, process used
+	
+product roadmap: true
+
+keep the team properly motivated, it is beneficial to provide rewards
+	an individual receives positive comments
+
+which method of managing an upcoming project will be most appropriated
+	hybrid method
+
+noriced that the project manger was identifying variances during retrospective
+	having a private conversation with the individual
+
+constuction project is most likely to occure
+	false
+	
+starting with a new team, team building strategies
+	informal, formal
+
+most approp for determining all stakeholder requirements
+	focus groups
+	
+predictive team frequency have a deadline, visual tools used for monitoring
+	netowrk diagram
+	gantt charts
+
+asked to select a supplieer, which is least likely to be a source selection criteira
+	team location
+
+team charter would support all except
+	expressing the optimal outcome
+
+current organization, follow stick protocol, what are coverered under project governance
+	project orgnizational stucutre
+	project life cycle approach
+
+you are responsible for the several components of the schedule, schedule management plan
+	stakeholder impact analysis
+
+it is near end of the day and you frustrated
+	bring this up at the next daily standup
+	
+
+done developin the project result, what process tool
+	validation
+
+current situation, team is facing requires lot of interactions with people, non-key stakeholders
+	individual who asksed the project amanger
+
+during the life of the projectm an issue arose, which type of a change request would this fall under
+	preventive action
+	
+
+senior management asking for advice on an upcoming project, you need to be able to keep track of these change, but customer wants business value delivered frequency
+	we should use hybrid approach
+
+risk management plan has a series of influences that keep the project on their toes. 
+	rick events that occur during the initial phase
+
+team is looking to categorize risk to respond to potential upside or downside outcomes
+	Noting any regulations that arise due to industry advances
+	
+decomposition is a term frequently used
+	outline format
+	orgnaizational chart
+
+during the lessons learned, team staff and external suppliers may be involved
+	components of the project that were defectes
+	
+when development of the project has reached point, end lclient, consumer, or general public
+specific cutoff or time
+	to go-live date
+
+attempt to remain customer-focused and increase your overall value
+	ensuring compliance on all electronic communication
+
+team is worried about how much held accountable for failures, 
+	always looking to provide the work on time
+
+new project manager, leading a team from the beginning for the first tiem, stakeholder requirements are met as possible.
+	user requirements
+
+developing a project scope statement req series of tools
+	planning poker
+	
+matching
+	predicive: 
+	adaptive/agile: epics, feature,stories, taSks
+	
+negotiation with external client, conflict management approach
+	true
+
+matching
+	hybrid: focus on determining what can be
+	agile: focus on performance level
+	predictive: foucus on clearly defined
+	
+eval project based on team devlopment, team development is a necessary step long-term project
+	measuring trust and respect
+	nothing the level of diversity
+	
+
+team is working on a way to track all important information, words, numbers, images
+	explicit knowledge
+	tacit knowledge
+
+project team to get next phase
+	start-to-start regulations
+	
+adopt agile approach for first time, process and tools and is aksing
+	an empowered team is more important for success
+	
+matching
+	functional: individual work
+	projected: team members works full
+	matrix: loyalty of the team member
+
+early in the project formation, project stakeholder requirements
+	the maximum budget provided will be 350,000
+	the project must delivered by end (last day)
+	
+predictive set of project managmenet tools
+	the design and building of bridges
+	
+latest software release that was provided, client, several of the newest employees
+	backlong burndown
+
+most statistical of consensus
+	Ture
+	
+project leader for any multinational organization
+	True
+
+iteration to iteration, face challenges. project will focus on helping the team members
+	spike
+
+which role are a part of the project managers description during conflict
+	incorporate imterpersonal and team skills
+	facilitate the discussion to allow team members
+
+just completed an unstructured brainstorming session and determined. best tool to sort these into useful groupings
+	affinity diagramming
+	
+gantt chart is primarily to show the work packages
+	True
+
+
+developing features into an initial list, tools used in the agile methods for this purpose
+	network diagram
+
+project lessons learned in few sessions after project was done
+	Lessons learned repository
+	
+matching
+	throughput metrics: the measurement of work completed from one stage to another
+	earned value: an evaluation of the cost and time
+	quality metrics: the measurement of acceptable product versus defects
+	
+
+plan, process, procedure, policies, databases
+	False
+
+purpose of a bidder conference is most likely
+	the buyer provides an expected price they wish to pay
+
+projects experience risk conditions, will record them in the
+	risk repository
+	risk register
+	
+working with project stakeholders, varying style of involvement will be necess,
+steps involves assuring stakeholder involvment at various levels
+	avoid overwhelming stakeholders with too much conmmunication
+	
+project managers fequency make decisions incomplete information or best guesses.this means simulations in project management
+	used to solve scope issues on complex situations
+
+with stakeholders from different organizations
+	the topic brought to the group is new in nature
+
+new and unique project, dettermine how it will affect the project, which classification would this fall
+	known and unknown
+	
+manager is currently doing their best, delivered satisfaction within budget expectation, there will be manay relationships involved. which task relationsships
+	mandatory
+
+
+inefficient conflict management methods, most likely result
+	reduced productivity, animosity among team members, destructive behaviors
+
+managing agile project and working with team to determine each sprint, initial signs of any risks or potential issues during the sprint
+	during daily standup meeting
+
+team has been complaning to the manager about too many graphs and charts provided during meetings
+	email communication pushed to a databases
+
+team has settled down to another end of iteration dicussion, at the end of the discussion, they determine one process to change for the next iteration.
+	false
+
+past many months, the team has worked with little direction from project manager.
+what the definition of done is
+	True
+
+most popular methods to determine time and cost compoinet
+	True
+
+pareto chart is used for ranking causes of problem from greatest to smallest
+	True
+
+match
+	planning poker: using the fibonanciii sequence
+	t-shirt size: all individuals in the assessment flash
+	historical sizing: participants pull related tasks from past
+	three-point estimating: the participants take data from multiple sources
+
+at the beginning of a project sponsor/owner and project manager , most problematic level of engagement ?
+	Resistant
+	
+least likely reason that work is provided in a time-box format, majority of agile projects
+	to ensure specific dateas are met on a regular basis
+
+project manager , explain that the individuals who handled documents them diligently in modifications
+key aspects version control
+	it includes all aspects of the project, including handwritten
+
+critical path activity is usually a defined activity with highest amount of risk
+	Flase
+
+you noted that the team has outlined main deliverables for a well-established scope.
+smaller subdeliverables or work packages yet.
+	Decompositions
+
+several discussions about making sure that every one of product requirements is satisfied, last few days of the project
+	Requirement validation
+
+which is latest likely componet of the project charter
+	outline of the primary staff expected
+
+types of resources most likely included in specific resource calendars
+	Email software
+	
+
+new team member joined your group, person requires some help, give them assignmenets and specific due dates.
+	the team is self-organizing and has the skills
+	this is a very experienced team, and memebers have all
+
+you have asked one of your team memeber to esitmate number of taSks
+	the individual performing the work, understands the risk
+	eash individual shold have better
+
+more likely be negotiated in a project, regardless of the life cycle
+	warranty and furture support
+	performance expectations
+	
+scope baselien should be, scope statement, cost estimates, and schedule milestones
+	Flase
+
+halfway through a project, noticed sprint, team members do not know other team memebers, what is mostly reason
+	daily standup meetings have not taken place
+	
+team hasnoriced an issue wthat will slow down the work progress, team is looking to the project manager for direction on what to do next. 
+	assigning an individual who will be responsible from this point
+
+concept of continuous improvement attends to iniform sales
+	False
+
+working as a part of government division approving new building, most applicable contract to use in thsi situation
+	Fixed price
+
+any project teams, best interest to be aware of major risks and have mental awareness, how certain risk events will affect the outcome. there have been many names for this tool or document
+	quality plan
+
+which of the following options are not considered interpersonal and team skills	
+	scheduling task
+	controlling teams
+
+organization taht stay stagnant end up losing their market ladership capabilities, variety of skill, including all of the following
+	encouraging the team to stay the course 
+	
+audits would be completed for 
+	to offer productivity improvments on the existing project
+	to assure that there is compliance with organizational requirements
+
+throughout the life of the project, you have taken short spurts of time to work
+these are usually failure short meetings with the team. regular activity
+	end-of-iteration restrospectivies with the team
+
+matching
+	project charter discussion: project sponsor or owner
+	project kickoff meeting: project manager
+	daily standup meeting: team members
+	project fit into portfolio: project management office
+	
+smallest segment of work that may be produced, given time that still provides some value is essentially the definition
+	Minimum business increment
+	
+there is still about $40,000, project has already spent $500,000, $48000
+	40,000
+	
+several knowledge transfer techniques , help organization retain information and experience
+	facilitating special interest groups
+	work shadowing
+	
+coworker who used to work intial planning long-term and complex interactions, explain business value as improtant for all of the following reason
+	meeting intial requests is the most important so avoid changes
+
+working on a adaptive project with your team for many months, you are uncertain how this will affect the budget
+	Refer to the contractual agreements terms ad conditions for added features
+
+leader of the project, asked to assess where the team will need more assiatnace in coming phase, which tool
+	SWOT, WOW
+	
+there are several different decisions to be made consequences of each affect next decision, best tool to use
+	decision tree
+	
+agile uses a far more flexible scheduling, windows between the ceremonies. agile scheduling techniques
+	progressive elaboration allows for details to be added during the retrospective
+
+which following correct levels of stakeholder engament assessment matrix
+	neutral, unaware
+	
+senior management is looking to see agile approach would be a good option, advice would you give them
+	agile works best in a constantly changing business environmnet where small teams determine the work that will be accomplished
+	
+team started daily stamdup meetings two weeks ago. going well. grop has general understanding, which are components of the standup meeting
+	outlining work tht will be done
+	describing work that been completed
+
+since 2020, primary methods of communication, least beneficial to collaboration technology
+	photocopier
+
+some of the greatest form of stress team will face, timeframe, create by values, communication methods, and completition between stakeholders both internal and external
+	True
+	
+quality expert derived the concept of many small changes for improvement
+	Kaizen
+
+calculating the cost performance index, during liefe of the project, formula
+	earned value divided by the acual cost
+	
+Matching
+	perdictive: I-Shaped
+	agile: T-shaped
+	great depth of skill in a particular area: I-shaped
+	general special: T-shaped
+
+which is least relevant to the business needs documents
+	Establishes the list of stakeholders involved and classifies them
+
+team on which you work has completed a recent iteration, performance reporting will include
+	percent completed rule
